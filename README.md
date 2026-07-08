@@ -18,7 +18,7 @@
 
 Hi, welcome to my GitHub! 🌷 I'm **Rose**, a senior studying Computer Science with a focus in **cybersecurity**.
 
-Most of my time is spent exploring offensive and defensive security through **Capture the Flag (CTF)** competitions. I enjoy both competing and creating CTF challenges, and I love designing problems that encourage others to think creatively and learn new techniques. Beyond cybersecurity, I'm also interested in **Machine Learning Engineering** and the intersection of AI and security. 
+I've learned both offensive and defensive security through **Capture the Flag (CTF)** competitions. I enjoy both competing and creating CTF challenges, and I love designing problems that encourage others to think creatively and learn new techniques. Beyond cybersecurity, I'm also interested in **Machine Learning Engineering** and the intersection of AI and security. 
 
 Feel free to explore my repositories, and if something catches your interest, don't hesitate to reach out or collaborate! 
 
