@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=cybersecurity+%2B+CTF+enthusiast+%F0%9F%94%90;ML+%2B+AI+security+curious+%F0%9F%A4%96;senior+CS+student+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=cybersecurity+%2B+CTF+enthusiast;ML+%2B+AI+security+curious;senior+CS+student" alt="Typing SVG" />
 </div>
 
 <br>
@@ -28,10 +28,23 @@ Feel free to explore my repositories, and if something catches your interest, do
 </tr>
 </table>
 
+## Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC1E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4)](https://linkedin.com/in/roselyn-torres/)
+
+</div>
+
 ## Tech Stack
 
 <div align="center">
 
+![Linux](https://img.shields.io/badge/Linux-FFC1E3.svg?style=for-the-badge&logo=linux&logoColor=white&labelColor=FF69B4)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-FFC1E3.svg?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=FF69B4)
+![Wireshark](https://img.shields.io/badge/Wireshark-FFC1E3.svg?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=FF69B4)
+![OWASP](https://img.shields.io/badge/OWASP-FFC1E3.svg?style=for-the-badge&logo=owasp&logoColor=white&labelColor=FF69B4)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-FFC1E3.svg?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=FF69B4)
 ![C](https://img.shields.io/badge/c-FFC1E3.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=FF69B4)
 ![C++](https://img.shields.io/badge/c++-FFC1E3.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=FF69B4)
 ![Java](https://img.shields.io/badge/java-FFC1E3.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=FF69B4)
@@ -55,14 +68,8 @@ Feel free to explore my repositories, and if something catches your interest, do
 
 ![](https://github-readme-stats.shion.dev/api?username=roselyn818&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=FF69B4&icon_color=FF69B4&text_color=D6336C)
 
+![](https://streak-stats.demolab.com/?user=roselyn818&theme=transparent&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=D6336C&sideLabels=D6336C&currStreakNum=D6336C&sideNums=D6336C&dates=D6336C)
 
-</div>
-
-## Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC1E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4)](https://linkedin.com/in/roselyn-torres/)
 
 </div>
 
@@ -70,8 +77,10 @@ Feel free to explore my repositories, and if something catches your interest, do
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1F0,100:FFC1E3&height=100&section=footer"/>
 
-**thanks for stopping by! ⭐ leave a star if you liked what you saw ✨**
+**thanks for stopping by! **
 
 </div>
+
+
 
 
