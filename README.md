@@ -26,14 +26,6 @@ Feel free to explore my repositories, and if something catches your interest, do
 </tr>
 </table>
 
-## Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC1E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4)](https://linkedin.com/in/roselyn-torres/)
-
-</div>
-
 ## Tech Stack
 
 <div align="center">
@@ -66,6 +58,14 @@ Feel free to explore my repositories, and if something catches your interest, do
 
 ![](https://github-readme-stats.shion.dev/api?username=roselyn818&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=FF69B4&icon_color=FF69B4&text_color=D6336C)
 
+
+</div>
+
+## Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC1E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4)](https://linkedin.com/in/roselyn-torres/)
 
 </div>
 
