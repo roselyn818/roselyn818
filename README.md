@@ -10,7 +10,7 @@
 
 <br>
 
-## 💫 About Me
+## About Me
 
 <table>
 <tr>
@@ -28,15 +28,7 @@ Feel free to explore my repositories, and if something catches your interest, do
 </tr>
 </table>
 
-## 🌐 Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC1E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4)](https://linkedin.com/in/roselyn-torres/)
-
-</div>
-
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -57,15 +49,20 @@ Feel free to explore my repositories, and if something catches your interest, do
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
 ![](https://github-readme-stats.shion.dev/api?username=roselyn818&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=FF69B4&icon_color=FF69B4&text_color=D6336C)
 
-![](https://streak-stats.demolab.com/?user=roselyn818&theme=transparent&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=D6336C&sideLabels=D6336C&currStreakNum=D6336C&sideNums=D6336C&dates=D6336C)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=roselyn818&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=FF69B4&text_color=D6336C)
+</div>
+
+## Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC1E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4)](https://linkedin.com/in/roselyn-torres/)
 
 </div>
 
@@ -77,4 +74,4 @@ Feel free to explore my repositories, and if something catches your interest, do
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ), remixed with 🎀 -->
+
