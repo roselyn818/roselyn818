@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=cybersecurity+%2B+CTF+enthusiast;ML+%2B+AI+security+curious;senior+CS+student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=ML+%2B+AI+security+curious;cybersecurity+%2B+CTF+enthusiast;senior+CS+student" alt="Typing SVG" />
 </div>
 
 <br>
@@ -74,8 +74,6 @@ Feel free to explore my repositories, and if something catches your interest, do
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1F0,100:FFC1E3&height=100&section=footer"/>
-
-**thanks for stopping by! **
 
 </div>
 
