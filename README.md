@@ -52,15 +52,6 @@ Feel free to explore my repositories, and if something catches your interest, do
 
 </div>
 
-## GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=roselyn818&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=FF69B4&icon_color=FF69B4&text_color=D6336C&v=2)
-
-
-</div>
-
 ## Socials
 
 <div align="center">
