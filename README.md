@@ -18,7 +18,7 @@
 
 # Hey, I'm Rose 🌷
 
-For fun I participate in cybersecurity competitions & also like creating CTF challenges! Feel free to explore my repositories, and if something catches your interest, don't hesitate to reach out or collaborate
+For fun I participate in cybersecurity competitions and I also enjoy creating CTF challenges! Feel free to explore my repositories, and if something catches your interest, don't hesitate to reach out or collaborate
 
 
 
