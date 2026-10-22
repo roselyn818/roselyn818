@@ -16,11 +16,11 @@
 <tr>
 <td>
 
-Hi, welcome to my GitHub! 🌷 I'm **Rose**, a senior studying Computer Science with a focus in **cybersecurity**.
+# Hey, I'm Rose 🌷
 
-I've learned both offensive and defensive security through Capture the Flag competitions. I enjoy both competing and creating CTF challenges.
+For fun I participate in cybersecurity competitions & also like creating CTF challenges! Feel free to explore my repositories, and if something catches your interest, don't hesitate to reach out or collaborate
 
-Feel free to explore my repositories, and if something catches your interest, don't hesitate to reach out or collaborate! 
+
 
 </td>
 </tr>
